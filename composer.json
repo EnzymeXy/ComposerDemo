@@ -1,0 +1,14 @@
+{
+    "name": "enzymexy/composerdemo",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EnzymeXy",
+            "email": "373781339@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
